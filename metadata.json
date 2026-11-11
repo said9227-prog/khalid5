@@ -1,0 +1,6 @@
+{
+  "name": "شعيب 3D",
+  "description": "استوديو شعيب 3D الاحترافي للرسوم المتحركة والنصوص والبيئات واستيراد النماذج ثلاثية الأبعاد (GLB / GLTF / OBJ)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
